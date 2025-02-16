@@ -1,5 +1,5 @@
 # My markdown testing page
 
-[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Image of evacat](https://myoctocat.com/assets/images/octocats/octocat-13.png)
 
 
